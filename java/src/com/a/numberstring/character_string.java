@@ -1,4 +1,4 @@
-package numberstring;
+package com.a.numberstring;
 
 public class character_string {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package variable;
+package com.b.variable;
 
 public class string {
 
